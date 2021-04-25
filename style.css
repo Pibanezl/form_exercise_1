@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(46, 46, 46)
+}
+label{
+    color: white;
+}
+
+h1{
+    color:white
+}
+form{
+    margin-top: 20px;
+}
+#charNum{
+    color:rgb(165, 165, 165);
+    float: right;
+}
